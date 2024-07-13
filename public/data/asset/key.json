@@ -1,0 +1,13 @@
+{
+  "name": "key",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "mesh": {
+    "rescale": 0.01
+  },
+  "id": "9c7ae4b4-4f50-42ad-8f97-adb8ee7ad93a",
+  "fileKey": "key.fbx",
+  "fileFormat": "fbx",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\3D Leap Land\\3D Leap Land\\fbx\\key.fbx"
+}

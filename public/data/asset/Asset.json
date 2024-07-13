@@ -1,0 +1,100 @@
+{
+  "name": "Asset",
+  "type": "material",
+  "material": {
+    "type": "standard",
+    "params": {
+      "metalness": 0,
+      "opacity": 1
+    },
+    "side": 0,
+    "shaderParams": {
+      "color": {
+        "type": 10,
+        "value": "#f5f4f4"
+      },
+      "roughness": {
+        "type": 1
+      },
+      "metalness": {
+        "type": 1
+      },
+      "map": {
+        "type": 2,
+        "value": "9c7ae5ee-ac8a-4e73-966d-9ee2b2c89054"
+      },
+      "lightMap": {
+        "type": 2,
+        "value": "9c7ae5ee-ac8a-4e73-966d-9ee2b2c89054"
+      },
+      "lightMapIntensity": {
+        "type": 1
+      },
+      "aoMap": {
+        "type": 2
+      },
+      "aoMapIntensity": {
+        "type": 1
+      },
+      "emissive": {
+        "type": 10,
+        "value": "#000000"
+      },
+      "emissiveIntensity": {
+        "type": 1
+      },
+      "emissiveMap": {
+        "type": 2
+      },
+      "bumpMap": {
+        "type": 2
+      },
+      "bumpScale": {
+        "type": 1
+      },
+      "normalMap": {
+        "type": 2
+      },
+      "normalScale": {
+        "type": 6,
+        "value": [
+          0,
+          0
+        ]
+      },
+      "displacementMap": {
+        "type": 2,
+        "value": null
+      },
+      "displacementScale": {
+        "type": 1
+      },
+      "displacementBias": {
+        "type": 1
+      },
+      "roughnessMap": {
+        "type": 2,
+        "value": "9c7ae5ee-ac8a-4e73-966d-9ee2b2c89054"
+      },
+      "metalnessMap": {
+        "type": 2,
+        "value": null
+      },
+      "alphaMap": {
+        "type": 2,
+        "value": "9c7ae5ee-ac8a-4e73-966d-9ee2b2c89054"
+      },
+      "envMap": {
+        "type": 2,
+        "value": "9c7ae5ee-ac8a-4e73-966d-9ee2b2c89054"
+      },
+      "envMapIntensity": {
+        "type": 1
+      },
+      "refractionRatio": {
+        "type": 1
+      }
+    }
+  },
+  "id": "9c7ae756-e740-43f9-9bb0-2f4070fd4ee3"
+}

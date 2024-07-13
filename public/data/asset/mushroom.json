@@ -1,0 +1,13 @@
+{
+  "name": "mushroom",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "mesh": {
+    "rescale": 0.01
+  },
+  "id": "9c7ae4b5-62e6-4d26-84f3-497fd3a45112",
+  "fileKey": "mushroom.fbx",
+  "fileFormat": "fbx",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\3D Leap Land\\3D Leap Land\\fbx\\mushroom.fbx"
+}

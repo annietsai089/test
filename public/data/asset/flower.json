@@ -1,0 +1,13 @@
+{
+  "name": "flower",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "mesh": {
+    "rescale": 0.01
+  },
+  "id": "9c7ae4b1-cc26-4651-b630-f5899e86c4ef",
+  "fileKey": "flower.fbx",
+  "fileFormat": "fbx",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\3D Leap Land\\3D Leap Land\\fbx\\flower.fbx"
+}

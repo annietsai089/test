@@ -1,0 +1,13 @@
+{
+  "name": "tree_2",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "mesh": {
+    "rescale": 0.01
+  },
+  "id": "9c7ae4b9-7c28-4a9f-93f1-52f32f350876",
+  "fileKey": "tree_2.fbx",
+  "fileFormat": "fbx",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\3D Leap Land\\3D Leap Land\\fbx\\tree_2.fbx"
+}

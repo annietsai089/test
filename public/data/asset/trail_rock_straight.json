@@ -1,0 +1,13 @@
+{
+  "name": "trail_rock_straight",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "mesh": {
+    "rescale": 0.01
+  },
+  "id": "9c7ae4b8-d8d6-4338-b170-efb5e5151a41",
+  "fileKey": "trail_rock_straight.fbx",
+  "fileFormat": "fbx",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\3D Leap Land\\3D Leap Land\\fbx\\trail_rock_straight.fbx"
+}

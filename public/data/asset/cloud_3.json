@@ -1,0 +1,13 @@
+{
+  "name": "cloud_3",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "mesh": {
+    "rescale": 0.01
+  },
+  "id": "9c7ae4b0-5c7e-46ac-90d0-534db07ca525",
+  "fileKey": "cloud_3.fbx",
+  "fileFormat": "fbx",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\3D Leap Land\\3D Leap Land\\fbx\\cloud_3.fbx"
+}

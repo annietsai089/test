@@ -1,0 +1,13 @@
+{
+  "name": "spring",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "mesh": {
+    "rescale": 0.01
+  },
+  "id": "9c7ae4b7-077c-4224-9583-f996a8f5ad5a",
+  "fileKey": "spring.fbx",
+  "fileFormat": "fbx",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\3D Leap Land\\3D Leap Land\\fbx\\spring.fbx"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "heart",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "mesh": {
+    "rescale": 0.01
+  },
+  "id": "9c7ae4b4-17ba-4361-b399-39fa17cd1b0b",
+  "fileKey": "heart.fbx",
+  "fileFormat": "fbx",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\3D Leap Land\\3D Leap Land\\fbx\\heart.fbx"
+}

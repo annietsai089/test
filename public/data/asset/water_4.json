@@ -1,0 +1,13 @@
+{
+  "name": "water_4",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "mesh": {
+    "rescale": 0.01
+  },
+  "id": "9c7ae4bb-3400-4990-b828-e73e5add3281",
+  "fileKey": "water_4.fbx",
+  "fileFormat": "fbx",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\3D Leap Land\\3D Leap Land\\fbx\\water_4.fbx"
+}

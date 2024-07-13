@@ -1,0 +1,13 @@
+{
+  "name": "ladder_2",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "mesh": {
+    "rescale": 0.01
+  },
+  "id": "9c7ae4b4-a126-4929-827f-f24cfd08f940",
+  "fileKey": "ladder_2.fbx",
+  "fileFormat": "fbx",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\3D Leap Land\\3D Leap Land\\fbx\\ladder_2.fbx"
+}

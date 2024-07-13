@@ -1,0 +1,13 @@
+{
+  "name": "dynamite",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "mesh": {
+    "rescale": 0.01
+  },
+  "id": "9c7ae4b1-0d90-4d0f-809c-934af39bd381",
+  "fileKey": "dynamite.fbx",
+  "fileFormat": "fbx",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\3D Leap Land\\3D Leap Land\\fbx\\dynamite.fbx"
+}

@@ -1,0 +1,213 @@
+{
+  "id": "uuvu76i94",
+  "name": "demo",
+  "sceneId": "uuvu76i94",
+  "data": [
+    {
+      "id": "auto-sky",
+      "name": "Sky",
+      "type": "sky",
+      "sky": {
+        "materialId": null
+      }
+    },
+    {
+      "id": "auto-global-fog",
+      "name": "Global fog",
+      "type": "global_fog",
+      "fog": {
+        "type": "density",
+        "color": "#b8f8ff",
+        "density": 0.005,
+        "near": 100,
+        "far": 1000
+      }
+    },
+    {
+      "id": "2572229e-99f3-498c-9d2d-ea24b841ac77",
+      "name": "Box",
+      "position": [
+        -70.12952488528782,
+        4.953355451733986,
+        -31.648507484569752
+      ],
+      "scale": [
+        29.55229628517307,
+        5.95887315234686,
+        42.794226397176914
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        "XYZ"
+      ],
+      "type": "shape_mesh",
+      "materialAssignments": [
+        {
+          "color": "#aaaaaa",
+          "materialId": "9c7ae7a5-1ba4-49f9-98c4-ab7037bcde2f",
+          "name": "Default"
+        }
+      ],
+      "castShadow": true,
+      "receiveShadow": true,
+      "collisionDetection": true,
+      "shape": "box",
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "ae812bf1-04e4-4621-96ac-8407878d36c6",
+      "name": "SpawnPoint",
+      "position": [
+        -70.7554052562495,
+        9.799999999999999,
+        -49.773081010166294
+      ],
+      "scale": [
+        1.8000000000000003,
+        1.8000000000000003,
+        1.8000000000000003
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        "XYZ"
+      ],
+      "type": "actor",
+      "actor": {
+        "type": "SpawnPoint",
+        "innerParams": [
+          {
+            "path": [
+              "mesh"
+            ],
+            "params": {}
+          }
+        ],
+        "params": {}
+      }
+    },
+    {
+      "id": "2c57766f-be28-4a74-9ae5-6cd8e8be7a76",
+      "name": "TriggerVolume",
+      "position": [
+        -70.79461782127008,
+        8.9,
+        -11.61914074124962
+      ],
+      "scale": [
+        1.8000000000000003,
+        1.8000000000000003,
+        1.8000000000000003
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        "XYZ"
+      ],
+      "type": "actor",
+      "actor": {
+        "type": "TriggerVolume",
+        "innerParams": [
+          {
+            "path": [
+              "trigger"
+            ],
+            "params": {}
+          },
+          {
+            "path": [
+              "trigger",
+              "editorMesh"
+            ],
+            "params": {}
+          }
+        ],
+        "params": {}
+      }
+    },
+    {
+      "id": "1f9d79aa-95ea-4328-aea1-5dafe50a2281",
+      "name": "water_2",
+      "assetId": "9c7ae4ba-f8f0-4f09-af2e-f3d7daab1d90",
+      "position": [
+        -63.10063967954001,
+        4.148318905624936e-15,
+        13.317632522413572
+      ],
+      "scale": [
+        0.0831739099664385,
+        0.0831739099664385,
+        0.0831739099664385
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [
+        {
+          "color": "#cccccc",
+          "materialId": "9c7ae756-e740-43f9-9bb0-2f4070fd4ee3",
+          "name": "Non Metallic"
+        }
+      ],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "bf5a408a-03a6-4636-80f5-2439ee01622c",
+      "name": "tree_2",
+      "assetId": "9c7ae4b9-7c28-4a9f-93f1-52f32f350876",
+      "position": [
+        -82.3372915964342,
+        7.932792027907416,
+        -50.98178562869303
+      ],
+      "scale": [
+        0.01,
+        0.01,
+        0.01
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [
+        {
+          "color": "#cccccc",
+          "materialId": "9c7ae756-e740-43f9-9bb0-2f4070fd4ee3",
+          "name": "Non Metallic"
+        }
+      ],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    }
+  ]
+}

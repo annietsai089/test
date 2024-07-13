@@ -1,0 +1,13 @@
+{
+  "name": "ground_cloud_2",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "mesh": {
+    "rescale": 0.01
+  },
+  "id": "9c7ae4b2-ac7c-426e-9458-6b53d65c8a92",
+  "fileKey": "ground_cloud_2.fbx",
+  "fileFormat": "fbx",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\3D Leap Land\\3D Leap Land\\fbx\\ground_cloud_2.fbx"
+}

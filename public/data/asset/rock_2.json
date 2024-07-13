@@ -1,0 +1,13 @@
+{
+  "name": "rock_2",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "mesh": {
+    "rescale": 0.01
+  },
+  "id": "9c7ae4b5-ff62-4a67-ae71-e8d8769634ce",
+  "fileKey": "rock_2.fbx",
+  "fileFormat": "fbx",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\3D Leap Land\\3D Leap Land\\fbx\\rock_2.fbx"
+}

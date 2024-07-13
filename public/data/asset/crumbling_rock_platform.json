@@ -1,0 +1,13 @@
+{
+  "name": "crumbling_rock_platform",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "mesh": {
+    "rescale": 0.01
+  },
+  "id": "9c7ae4b0-c376-467c-983b-0861220e7c35",
+  "fileKey": "crumbling_rock_platform.fbx",
+  "fileFormat": "fbx",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\3D Leap Land\\3D Leap Land\\fbx\\crumbling_rock_platform.fbx"
+}

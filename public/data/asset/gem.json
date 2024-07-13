@@ -1,0 +1,13 @@
+{
+  "name": "gem",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "mesh": {
+    "rescale": 0.01
+  },
+  "id": "9c7ae4b2-07a4-4121-96ac-f5c23e6e1f83",
+  "fileKey": "gem.fbx",
+  "fileFormat": "fbx",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\3D Leap Land\\3D Leap Land\\fbx\\gem.fbx"
+}

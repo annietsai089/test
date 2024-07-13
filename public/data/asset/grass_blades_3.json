@@ -1,0 +1,13 @@
+{
+  "name": "grass_blades_3",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "mesh": {
+    "rescale": 0.01
+  },
+  "id": "9c7ae4b2-6550-494e-be51-cc5df3e9b2c3",
+  "fileKey": "grass_blades_3.fbx",
+  "fileFormat": "fbx",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\3D Leap Land\\3D Leap Land\\fbx\\grass_blades_3.fbx"
+}

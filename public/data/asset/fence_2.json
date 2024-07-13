@@ -1,0 +1,13 @@
+{
+  "name": "fence_2",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "mesh": {
+    "rescale": 0.01
+  },
+  "id": "9c7ae4b1-598a-4a89-bbe3-e36f448bf751",
+  "fileKey": "fence_2.fbx",
+  "fileFormat": "fbx",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\3D Leap Land\\3D Leap Land\\fbx\\fence_2.fbx"
+}

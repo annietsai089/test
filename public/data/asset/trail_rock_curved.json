@@ -1,0 +1,13 @@
+{
+  "name": "trail_rock_curved",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "mesh": {
+    "rescale": 0.01
+  },
+  "id": "9c7ae4b8-b900-4538-889c-14e918731576",
+  "fileKey": "trail_rock_curved.fbx",
+  "fileFormat": "fbx",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\3D Leap Land\\3D Leap Land\\fbx\\trail_rock_curved.fbx"
+}

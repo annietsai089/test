@@ -1,0 +1,13 @@
+{
+  "name": "lock",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "mesh": {
+    "rescale": 0.01
+  },
+  "id": "9c7ae4b5-0bac-4d68-b39c-6849a7a70cef",
+  "fileKey": "lock.fbx",
+  "fileFormat": "fbx",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\3D Leap Land\\3D Leap Land\\fbx\\lock.fbx"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sign",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "mesh": {
+    "rescale": 0.01
+  },
+  "id": "9c7ae4b6-a1ba-474e-85ab-4b2b34210735",
+  "fileKey": "sign.fbx",
+  "fileFormat": "fbx",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\3D Leap Land\\3D Leap Land\\fbx\\sign.fbx"
+}

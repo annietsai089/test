@@ -1,0 +1,13 @@
+{
+  "name": "telescope",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "mesh": {
+    "rescale": 0.01
+  },
+  "id": "9c7ae4b7-6226-4af0-8d68-fcf19623683e",
+  "fileKey": "telescope.fbx",
+  "fileFormat": "fbx",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\3D Leap Land\\3D Leap Land\\fbx\\telescope.fbx"
+}

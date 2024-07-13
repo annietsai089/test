@@ -1,0 +1,13 @@
+{
+  "name": "treasure_chest",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "mesh": {
+    "rescale": 0.01
+  },
+  "id": "9c7ae4b9-1d14-43a7-b03b-4060017237da",
+  "fileKey": "treasure_chest.fbx",
+  "fileFormat": "fbx",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\3D Leap Land\\3D Leap Land\\fbx\\treasure_chest.fbx"
+}
